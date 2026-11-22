@@ -1,5 +1,24 @@
 [
   {
+    "id": "unreal-engine-5-creators-hub-reddit-5",
+    "title": "r/gamedev Technical Art & Shaders",
+    "platform": "Reddit",
+    "category": "Game Dev",
+    "memberCount": "1,450,000+ members",
+    "description": "3D game development, shader programming (HLSL/GLSL), PBR material creation, and optimization.",
+    "joinUrl": "https://www.reddit.com/r/gamedev/",
+    "tags": [
+      "gamedev",
+      "shaders",
+      "pbr",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-22"
+  },
+  {
     "id": "unreal-engine-5-creators-hub-reddit-4",
     "title": "r/vfx CGI & Cinematic Compositing",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-21"
   },
   {
@@ -359,24 +378,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "unreal-engine-5-creators-hub-reddit-5",
-    "title": "r/gamedev Technical Art & Shaders",
-    "platform": "Reddit",
-    "category": "Game Dev",
-    "memberCount": "1,450,000+ members",
-    "description": "3D game development, shader programming (HLSL/GLSL), PBR material creation, and optimization.",
-    "joinUrl": "https://www.reddit.com/r/gamedev/",
-    "tags": [
-      "gamedev",
-      "shaders",
-      "pbr",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "unreal-engine-5-creators-hub-reddit-6",
