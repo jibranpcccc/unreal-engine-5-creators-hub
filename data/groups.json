@@ -1,5 +1,24 @@
 [
   {
+    "id": "unreal-engine-5-creators-hub-reddit-7",
+    "title": "r/Houdini Procedural Generation & FX",
+    "platform": "Reddit",
+    "category": "Houdini",
+    "memberCount": "55,000+ members",
+    "description": "SideFX Houdini procedural node setups, VEX scripting, particle simulations, pyro, and fluid dynamics.",
+    "joinUrl": "https://www.reddit.com/r/Houdini/",
+    "tags": [
+      "houdini",
+      "procedural",
+      "simulations",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "id": "unreal-engine-5-creators-hub-reddit-6",
     "title": "r/unity3d Real-Time Graphics Pipeline",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -397,24 +416,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "unreal-engine-5-creators-hub-reddit-7",
-    "title": "r/Houdini Procedural Generation & FX",
-    "platform": "Reddit",
-    "category": "Houdini",
-    "memberCount": "55,000+ members",
-    "description": "SideFX Houdini procedural node setups, VEX scripting, particle simulations, pyro, and fluid dynamics.",
-    "joinUrl": "https://www.reddit.com/r/Houdini/",
-    "tags": [
-      "houdini",
-      "procedural",
-      "simulations",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "unreal-engine-5-creators-hub-discord-8",
