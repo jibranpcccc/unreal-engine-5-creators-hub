@@ -1,5 +1,23 @@
 [
   {
+    "id": "unreal-engine-5-creators-hub-discord-9",
+    "title": "Game Dev League 3D Discord",
+    "platform": "Discord",
+    "category": "Game Dev Discord",
+    "memberCount": "115,000+ members",
+    "description": "Server for 3D environment artists, animators, level designers, and technical directors.",
+    "joinUrl": "https://discord.gg/gamedev",
+    "tags": [
+      "gamedev",
+      "technical-art",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "id": "unreal-engine-5-creators-hub-discord-8",
     "title": "Blender Official Community Discord",
     "platform": "Discord",
@@ -15,7 +33,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -435,23 +453,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "unreal-engine-5-creators-hub-discord-9",
-    "title": "Game Dev League 3D Discord",
-    "platform": "Discord",
-    "category": "Game Dev Discord",
-    "memberCount": "115,000+ members",
-    "description": "Server for 3D environment artists, animators, level designers, and technical directors.",
-    "joinUrl": "https://discord.gg/gamedev",
-    "tags": [
-      "gamedev",
-      "technical-art",
-      "discord"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "unreal-engine-5-creators-hub-forum-10",
